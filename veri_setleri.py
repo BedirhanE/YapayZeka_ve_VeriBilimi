@@ -35,3 +35,20 @@ print(df.head())
 
 print(df["mass"].fillna(df["mass"].mean(),inplace=True))# mass değişkenindeki eksik değerleri ortalama ile dolduruyoruz
 print(df.head())
+
+print("/////////////////////////////////////////////////////////////////")
+import pandas as pd
+df.method = pd.Categorical(df.method)# method değişkenini kategorik değişken olarak tanımlıyoruz
+print(df.head())
+print(df.shape)# veri setinin boyutunu verir    (row,column)
+kat_df = df.select_dtypes(include = ["category"])# kategorik değişkenleri seçiyoruz
+print(kat_df.method.value_counts())# method değişkenindeki değerlerin kaçar tane olduğunu gösteriyor.
+print(kat_df.info())# kategorik değişkenlerin bilgilerini verir
+print(kat_df["method"].value_counts())# method değişkenindeki değerlerin kaçar tane olduğunu gösteriyor.
+
+#veri setindeki değerlerin grafik olarak gösterilmesi veri görselleştirme
+counts = df["method"].value_counts()
+plot = counts.plot.barh()
+print(plot)
+
+
