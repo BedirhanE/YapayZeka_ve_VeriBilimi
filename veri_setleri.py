@@ -25,3 +25,13 @@ print(df.describe().T)# transpozunu alıyoruz    (row,column) yer değiştiriyor
 print("*********Metod değişkenindeki değerlerin kaçtane olduğu************ .")
 print(df["method"].value_counts())# method değişkenindeki değerlerin kaçar tane olduğunu gösteriyor.
 
+print(df.isnull().sum())# veri setinde eksik değer var mı yok mu onu gösteriyor
+
+
+
+#veri seti içersinde eksik değerleri ortalama ile doldurma işlemi kodu
+print(df["orbital_period"].fillna(df["orbital_period"].mean(),inplace=True))# orbital_period değişkenindeki eksik değerleri ortalama ile dolduruyoruz
+print(df.head())
+
+print(df["mass"].fillna(df["mass"].mean(),inplace=True))# mass değişkenindeki eksik değerleri ortalama ile dolduruyoruz
+print(df.head())
