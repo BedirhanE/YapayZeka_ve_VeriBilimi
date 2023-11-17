@@ -21,16 +21,16 @@ Makine öğrenmesi, AI’nin bir alt kümesidir ve bilgisayarların açıkça pr
 ### Derin Öğrenme (Deep Learning)
 Derin öğrenme, makine öğrenmesinin bir alt kümesidir ve yapay sinir ağlarına dayanır. Derin öğrenme modelleri, genellikle büyük miktarda veri gerektirir ve karmaşık görevleri gerçekleştirebilir.
 
-# Veri Bilimi (Data Science)
+### Veri Bilimi (Data Science)
 Veri bilimi, bilgi çıkarımı için bilimsel yöntemler, süreçler, algoritmalar ve sistemlerin disiplinler arası bir alanıdır. Veri bilimi, verileri anlamak ve analiz etmek için istatistik, veri analizi, makine öğrenmesi ve ilgili yöntemleri kullanır.
 
-# Veri Madenciliği (Data Mining)
+### Veri Madenciliği (Data Mining)
 Veri madenciliği, büyük veri kümelerinden örüntüler ve bilgiler çıkarmak için kullanılan süreçtir. Bu, istatistiksel analiz, makine öğrenmesi ve veri tabanı sistemleri gibi teknikleri içerir.
 
-# Büyük Veri (Big Data)
+### Büyük Veri (Big Data)
 Büyük veri, geleneksel veri işleme uygulamalarının işlemeyi zor bulduğu çok büyük veri kümelerini ifade eder. Büyük veri genellikle hacim, çeşitlilik ve hız olarak üç “V” ile karakterize edilir.
 
-# Veri Görselleştirme (Data Visualization)
+### Veri Görselleştirme (Data Visualization)
 Veri görselleştirme, verileri görsel bir bağlamda sunma pratiğidir, bu da insanların anlamalarını ve verilerden anlamlı bilgiler çıkarmalarını kolaylaştırır.
 
 
