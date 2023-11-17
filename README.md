@@ -17,7 +17,19 @@ Yapay zeka, makinelerin insan zekasını taklit etme yeteneğidir. Bu, öğrenme
 
 ### Makine Öğrenmesi (Machine Learning)
 Makine öğrenmesi, AI’nin bir alt kümesidir ve bilgisayarların açıkça programlanmadan öğrenme yeteneğine odaklanır. Makine öğrenmesi algoritmaları, verilerden öğrenir ve tahminlerde bulunur.
-![image](https://github.com/BedirhanE/YapayZeka_ve_VeriBilimi/assets/79866900/24ad7de4-cae9-4b85-a41b-eac09a270cfb)
+
+#Makine öğrenmesi için basit bir linear regresyon örneği.
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+
+# X ve y veri setlerinizi belirtin
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+predictions = model.predict(X_test)
+
 
 
 ### Derin Öğrenme (Deep Learning)
