@@ -17,6 +17,8 @@ Yapay zeka, makinelerin insan zekasını taklit etme yeteneğidir. Bu, öğrenme
 
 ### Makine Öğrenmesi (Machine Learning)
 Makine öğrenmesi, AI’nin bir alt kümesidir ve bilgisayarların açıkça programlanmadan öğrenme yeteneğine odaklanır. Makine öğrenmesi algoritmaları, verilerden öğrenir ve tahminlerde bulunur.
+![image](https://github.com/BedirhanE/YapayZeka_ve_VeriBilimi/assets/79866900/24ad7de4-cae9-4b85-a41b-eac09a270cfb)
+
 
 ### Derin Öğrenme (Deep Learning)
 Derin öğrenme, makine öğrenmesinin bir alt kümesidir ve yapay sinir ağlarına dayanır. Derin öğrenme modelleri, genellikle büyük miktarda veri gerektirir ve karmaşık görevleri gerçekleştirebilir.
