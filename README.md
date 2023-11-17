@@ -1,4 +1,4 @@
-## YapayZeka_ve_VeriBilimi
+# YapayZeka_ve_VeriBilimi
 yapay zeka ve veri bilimi ders çalışma notları ve projelerinin yer aldığı bu repository yeni başlayanlar için temel oluşturabilir 
 umarım yararlı olur sizler için.Benim aktaracağım Notlar Bu şekilde,örneklerin yer aldıyı dosyaları ve konu ile alakalı Notlarımı README dosyasında Bulabilirsiniz.
 geri dönüş bildiirmlerinizi bekliyorum.Herkese iyi çalışmalar.
@@ -7,18 +7,18 @@ geri dönüş bildiirmlerinizi bekliyorum.Herkese iyi çalışmalar.
 
 Yapay zeka (YZ) ve veri bilimi (VB), günümüz teknolojisinin en önemli alanları arasında yer alarak birbirini tamamlayan disiplinlerdir. Bu çalışma, yapay zeka ve veri biliminin temel prensiplerini, uygulama alanlarını ve günümüzdeki etkilerini ele alarak dijital dönüşüm sürecindeki kilit rolünü vurgulamaktadır.
 
-# Yapay Zeka (YZ) Nedir?
+### Yapay Zeka (YZ) Nedir?
 
 Yapay zeka, bilgisayar sistemlerine insan benzeri zeka yetenekleri kazandırmayı amaçlayan bir bilim dalıdır. Makine öğrenimi, derin öğrenme ve doğal dil işleme gibi alt dalları içerir. YZ, veri analizi ve örüntü tanıma gibi yetenekleriyle çeşitli endüstrilerde kullanılarak süreçleri otomatize eder ve karar alma süreçlerini iyileştirir.
 
 
-# Yapay Zeka (AI) Tanım
+### Yapay Zeka (AI) Tanım
 Yapay zeka, makinelerin insan zekasını taklit etme yeteneğidir. Bu, öğrenme (bilgi edinme ve kuralları kullanma), akıl yürütme (kuralları kullanarak en iyi sonucu veya belirli bir sonucu bulma), algılama (dünyayı anlama), dil anlama ve problem çözme gibi yetenekleri içerir.
 
-Makine Öğrenmesi (Machine Learning)
+### Makine Öğrenmesi (Machine Learning)
 Makine öğrenmesi, AI’nin bir alt kümesidir ve bilgisayarların açıkça programlanmadan öğrenme yeteneğine odaklanır. Makine öğrenmesi algoritmaları, verilerden öğrenir ve tahminlerde bulunur.
 
-# Derin Öğrenme (Deep Learning)
+### Derin Öğrenme (Deep Learning)
 Derin öğrenme, makine öğrenmesinin bir alt kümesidir ve yapay sinir ağlarına dayanır. Derin öğrenme modelleri, genellikle büyük miktarda veri gerektirir ve karmaşık görevleri gerçekleştirebilir.
 
 # Veri Bilimi (Data Science)
